@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nabil</h1>
-<h3 align="center">A passionate Data Engineer specializing in Generative AI </h3>
+<h3 align="center">A passionate Data Engineer specializing in Generative AI</h3>
 
-- 🌱 I’m currently working with **Python, Java, Spring, LangChain, Google Cloud, Terraform, Angular, Kubernetes, HTML, CSS, JavaScript, Podman, JUnit, and Helm.**
+- 🌱 I’m currently working with **Python, Java, Spring, LangChain, Google Cloud, Terraform, Angular, Kubernetes, HTML, CSS, JavaScript, Podman, JUnit, Helm, and Jenkins.**
+- 📍 Based in **Paris** 
 - 💬 Ask me about **generative AI, cloud deployments, and building scalable data pipelines.**
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mecheri-nabil-0a2971168/) <a href="https://www.linkedin.com/in/mecheri-nabil-0a2971168/" target="_blank">
+  </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -56,6 +59,9 @@
   </a>
   <a href="https://helm.sh" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   </a>
 </p>
 
