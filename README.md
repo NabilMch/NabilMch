@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nabil</h1>
 <h3 align="center">A passionate Data Engineer specializing in Generative AI</h3>
 
-- 🌱 I’m currently working with **Python, Java, Spring, LangChain, Google Cloud, Terraform, Angular, Kubernetes, HTML, CSS, JavaScript, Podman, JUnit, Helm, and Jenkins.**
+- 🌱 I’m currently working with **Python, LangChain, Google Cloud, Terraform, Angular, Podman and Jenkins.**
 - 📍 Based in **Paris** 
 - 💬 Ask me about **generative AI, cloud deployments, and building scalable data pipelines.**
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mecheri-nabil-0a2971168/) <a href="https://www.linkedin.com/in/mecheri-nabil-0a2971168/" target="_blank">
