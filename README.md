@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabil</h1>
-<h3 align="center">A passionate Data Engineer specializing in Generative AI</h3>
+<h3 align="center">A passionate AI Engineer specializing in Generative AI</h3>
 
 - 🌱 I’m currently working with **Python, LangChain, Google Cloud, Terraform, Angular, Podman and Jenkins.**
 - 📍 Based in **Paris** 
